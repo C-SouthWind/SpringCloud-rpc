@@ -12,7 +12,7 @@
 20200427-springcloud-rpc1
 	包括：20200427-springcloud-rpc1-consumer（消费者）
 	          20200427-springcloud-rpc1-management（管理）
-		20200427-springcloud-rpc1-management-mapper（mapper）
-		20200427-springcloud-rpc1-management-model（model）
-		20200427-springcloud-rpc1-management-service（service）
+		    20200427-springcloud-rpc1-management-mapper（mapper）
+		    20200427-springcloud-rpc1-management-model（model）
+		    20200427-springcloud-rpc1-management-service（service）
 	          20200427-springcloud-rpc1-provider（提供者）	
