@@ -11,6 +11,8 @@
 
 20200427-springcloud-rpc1
 	包括：20200427-springcloud-rpc1-consumer（消费者）
+		定义bean  
+		web中注入springCloud提供的RestTemplate
 	          20200427-springcloud-rpc1-management（管理）
 		20200427-springcloud-rpc1-management-mapper（mapper）
 		20200427-springcloud-rpc1-management-model（model）
