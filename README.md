@@ -14,7 +14,7 @@
 		定义bean  
 		web中注入springCloud提供的RestTemplate
 	          20200427-springcloud-rpc1-management（管理）
-		20200427-springcloud-rpc1-management-mapper（mapper）
-		20200427-springcloud-rpc1-management-model（model）
-		20200427-springcloud-rpc1-management-service（service）
+		    20200427-springcloud-rpc1-management-mapper（mapper）
+		    20200427-springcloud-rpc1-management-model（model）
+		    20200427-springcloud-rpc1-management-service（service）
 	          20200427-springcloud-rpc1-provider（提供者）	
