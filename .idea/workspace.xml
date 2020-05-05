@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5140af7-2479-4989-a9d9-ab8faea833e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bROQDYrdZuiZd0ysG1tN8cO5zi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringCloud-rpc-management/rpc-mapper/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chj.service" />
+      <recent name="com.chj.model" />
+      <recent name="com.chj.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaWork\SpringCloud-rpc\SpringCloud-rpc-management\rpc-mapper\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderApplication8080">
+    <configuration name="ConApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringCloud-rpc-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chj.ConApplication8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication8080" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringCloud-rpc-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chj.ProviderApplication8080" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderApplication8080" />
+        <item itemvalue="Spring Boot.ConApplication8081" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5140af7-2479-4989-a9d9-ab8faea833e8" name="Default Changelist" comment="" />
+      <created>1588591420749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588591420749</updated>
+      <workItem from="1588591424112" duration="5471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="54" key="#Project_Structure" timestamp="1588597070303">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="54" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1588597070303" />
+    <state x="887" y="185" key="FileChooserDialogImpl" timestamp="1588592879772">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="887" y="185" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588592879772" />
+    <state width="664" height="155" key="GridCell.Tab.0.bottom" timestamp="1588598993811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588598993811" />
+    <state width="664" height="155" key="GridCell.Tab.0.center" timestamp="1588598993811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588598993811" />
+    <state width="664" height="155" key="GridCell.Tab.0.left" timestamp="1588598993811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588598993811" />
+    <state width="664" height="155" key="GridCell.Tab.0.right" timestamp="1588598993811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588598993811" />
+    <state width="664" height="155" key="GridCell.Tab.1.bottom" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.1.center" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.1.left" timestamp="1588598993811">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588598993811" />
+    <state width="664" height="155" key="GridCell.Tab.1.right" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.2.bottom" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.2.center" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.2.left" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state width="664" height="155" key="GridCell.Tab.2.right" timestamp="1588598993812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="155" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1588598993812" />
+    <state x="115" y="126" key="new project wizard" timestamp="1588592761119">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="115" y="126" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1588592761119" />
+  </component>
+</project>
